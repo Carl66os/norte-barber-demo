@@ -7,6 +7,7 @@ const services = [
   { name: 'Corte + barba', detail: 'El equilibrio perfecto para tu perfil.', price: '$28.000', featured: true },
   { name: 'Perfilado de barba', detail: 'Toalla caliente, navaja y aceites.', price: '$14.000' },
   { name: 'Servicio premium', detail: 'Corte, barba, ritual y bebida de la casa.', price: '$38.000' },
+  { name: 'Lavado y peinado', detail: 'Lavado de cabello y peinado a tu gusto.', price: '$8.000' },
 ]
 
 const styles = [
