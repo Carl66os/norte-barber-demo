@@ -3,7 +3,7 @@ import './App.css'
 const whatsappUrl = 'https://wa.me/56900000000'
 
 const services = [
-  { name: 'Corte clásico', detail: 'Tijera, máquina y terminación impecable.', price: '$18.000' },
+  { name: 'Corte clásico', detail: 'Tijera, máquina y terminación impecable.', price: '$12.000' },
   { name: 'Corte + barba', detail: 'El equilibrio perfecto para tu perfil.', price: '$28.000', featured: true },
   { name: 'Perfilado de barba', detail: 'Toalla caliente, navaja y aceites.', price: '$14.000' },
   { name: 'Servicio premium', detail: 'Corte, barba, ritual y bebida de la casa.', price: '$38.000' },
